@@ -1,0 +1,182 @@
+<html>
+    <head>
+        <title>yummy food</title>
+        <link rel="stylesheet"href="style.css">
+    </head>
+    <body>
+        <div align="center">
+            <a href="#Home">Home</a>|
+            <a href="#Fries & More">Fries & More</a>|
+            <a href="#Healthy Salads">Healthy Salads</a>|
+            <a href="#Noodles">Noodles</a>|
+            <a href="#Desserts">Desserts</a>|
+            <a href="#Drinks">Drinks</a>
+        </div>
+        <div id="Home">
+            <h1>
+                <span style="color:red;">YUMMY</span>
+                <span style="color:yellow;">FOOD</span>
+            </h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius amet omnis quod perspiciatis. Alias, modi dolore nisi placeat dolorum nobis at magnam molestiae, animi ad magni unde sint illo! Totam libero error sed quam doloribus. Aperiam modi quam dolorum inventore.</p>
+            <table>
+                <tr>
+                    <td>
+                        <img src="biryani.jpg"width="500"height="300">
+                    </td>
+                    <td>
+                       <img src="burger.jpg"width="500"height="300"> 
+                    </td>
+                </tr>
+                <tr>
+                    <td>Awesome Ingredients</td>
+                    <td>Awesome Taste</td>
+                </tr>
+            </table>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores aut similique ea aliquid eum ducimus, voluptate odit aperiam consectetur consequuntur, molestias sapiente cupiditate nostrum fuga error quae ipsum, repudiandae in rerum soluta suscipit deserunt commodi? Id consequuntur quia maxime itaque?</p>
+        </div>
+        <div id="Fries and More">
+            <h2>Fries & More</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, numquam quia libero animi quos velit expedita et dolore neque nesciunt laborum inventore eos ullam harum commodi accusantium minus, alias voluptates. Laborum perspiciatis voluptates cupiditate ex recusandae quaerat quidem nihil libero!</p>
+            <table>
+                <tr>
+                    <td>
+                        <img src="fries.jpg"width="300"height="200">
+                    </td>
+                    <td>
+                        <img src="burger1.jpg"width="300"height="200">
+                    </td>
+                    <td>
+                        <img src="pizza.jpg"width="300"height="200">
+                    </td>
+                    <td>
+                        <img src="pasta.jpg"width="300"height="200">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Fries</td>
+                    <td>Burger</td>
+                    <td>Pizza</td>
+                    <td>Pasta</td>
+                </tr>
+            </table>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, voluptas suscipit. Repudiandae a ratione asperiores nostrum dolorum deleniti. Illo explicabo, quae sint ratione similique a voluptatibus officia aliquid quia, nesciunt aut, dolore soluta? Quis, delectus.</p>
+        </div>
+        <div id="Healthy Salads">
+            <h2>Healthy Salads</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, numquam quia libero animi quos velit expedita et dolore neque nesciunt laborum inventore eos ullam harum commodi accusantium minus, alias voluptates. Laborum perspiciatis voluptates cupiditate ex recusandae quaerat quidem nihil libero!</p>
+            <table>
+                <tr>
+                    <td>
+                        <img src="salad1.jpg"width="300"height="200">
+                    </td>
+                    <td>
+                        <img src="salad2.jpg"width="300"height="200">
+                    </td>
+                    <td>
+                        <img src="salad3.jpg"width="300"height="200">
+                    </td>
+                    <td>
+                        <img src="salad4.jpg"width="300"height="200">
+                    </td>
+                </tr>
+                <tr>
+                    <td>salad1</td>
+                    <td>salad2</td>
+                    <td>salad3</td>
+                    <td>salad4</td>
+                </tr>
+            </table>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae perferendis deserunt voluptatum dolorum omnis, vel aliquid tempora et nobis ut labore debitis, explicabo reiciendis nihil optio odit fuga corrupti nisi culpa nulla iste! Non consequuntur enim deleniti cumque perspiciatis obcaecati!</p>
+        </div>
+        <div id="Noodles">
+            <h2>Noodles</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, numquam quia libero animi quos velit expedita et dolore neque nesciunt laborum inventore eos ullam harum commodi accusantium minus, alias voluptates. Laborum perspiciatis voluptates cupiditate ex recusandae quaerat quidem nihil libero!</p>
+            <table>
+                <tr>
+                    <td>
+                        <img src="noodle1.jpg"width="300"height="200">
+                    </td>
+                    <td>
+                        <img src="noodle2.jpg"width="300"height="200">
+                    </td>
+                    <td>
+                        <img src="noodle3.jpg"width="300"height="200">
+                    </td>
+                    <td>
+                        <img src="noodle4.jpg"width="300"height="200">
+                    </td>
+                </tr>
+                <tr>
+                    <td>shrimp Noodles</td>
+                    <td>veg Noodles</td>
+                    <td>Ramen</td>
+                    <td>Egg Noodles</td>
+                </tr>
+            </table>
+        </div>
+        <div id="Desserts">
+            <h2>Desserts</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, numquam quia libero animi quos velit expedita et dolore neque nesciunt laborum inventore eos ullam harum commodi accusantium minus, alias voluptates. Laborum perspiciatis voluptates cupiditate ex recusandae quaerat quidem nihil libero!</p>
+            <table>
+                <tr>
+                    <td>
+                        <img src="dessert1.jpg"width="300"height="200">
+                    </td>
+                    <td>
+                        <img src="dessert2.jpg"width="300"height="200">
+                    </td>
+                    <td>
+                        <img src="dessert3.jpg"width="300"height="200">
+                    </td>
+                    <td>
+                        <img src="dessert4.jpg"width="300"height="200">
+                    </td>
+                </tr>
+                <tr>
+                    <td>dessert1</td>
+                    <td>dessert2</td>
+                    <td>dessert3</td>
+                    <td>dessert4</td>
+                </tr>
+            </table>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae perferendis deserunt voluptatum dolorum omnis, vel aliquid tempora et nobis ut labore debitis, explicabo reiciendis nihil optio odit fuga corrupti nisi culpa nulla iste! Non consequuntur enim deleniti cumque perspiciatis obcaecati!</p>
+        </div>
+        <div id="Drinks">
+            <h2>Drinks</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, numquam quia libero animi quos velit expedita et dolore neque nesciunt laborum inventore eos ullam harum commodi accusantium minus, alias voluptates. Laborum perspiciatis voluptates cupiditate ex recusandae quaerat quidem nihil libero!</p>
+            <table>
+                <tr>
+                    <td>
+                        <img src="drinks1.jpg"width="300"height="200">
+                    </td>
+                    <td>
+                        <img src="drinks2.jpg"width="300"height="200">
+                    </td>
+                    <td>
+                        <img src="drinks3.jpg"width="300"height="200">
+                    </td>
+                    <td>
+                        <img src="drinks4.jpg"width="300"height="200">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Cocktail</td>
+                    <td>Juices</td>
+                    <td>Rum</td>
+                    <td>Soju</td>
+                </tr>
+            </table>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Recusandae perferendis deserunt voluptatum dolorum omnis, vel aliquid tempora et nobis ut labore debitis, explicabo reiciendis nihil optio odit fuga corrupti nisi culpa nulla iste! Non consequuntur enim deleniti cumque perspiciatis obcaecati!</p>
+        </div>
+        <div id="footer">
+            <h2>Copy Rights & copy;2020,Yummmy Foods</h2>
+            <p>all rights reserved</p>
+            <p>develop and maintained by
+                <a href="https://github.com/sindhu935/sindhu"target="_blank">
+                    Yummy Food corp.
+                </a>
+            </p>
+                 <a href="#Home">Go to Home</a>
+        </div>
+    </body>
+</html>
